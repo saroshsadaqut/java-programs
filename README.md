@@ -1,4 +1,4 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 # Java Mini Projects
 
@@ -41,7 +41,7 @@ A simple console-based to-do list manager that persists tasks to a file.
 ### File Storage:
 Tasks are stored in tasks.txt in the same directory as the program.
 
-## How to Run:
+## How to Run
 ```bash
 javac ProgramName.java
 java ProgramName
